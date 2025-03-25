@@ -13,5 +13,8 @@ router.use("/likes", require("./likes.routes"));
 router.use("/views", require("./views.routes"));
 router.use("/reports", require("./reports.routes"));
 router.use("/comments", require("./comments.routes"));
+router.use("/news_tags", require("./news_tags.routes"));
+router.use("/authors", require("./authors.routes"));
+router.use("/notifaktions", require("./notifaktions.routes"));
 
 module.exports = router;

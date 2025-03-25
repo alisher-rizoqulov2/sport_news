@@ -30,3 +30,5 @@ async function start() {
 start();
 
 // alisher7771
+//ssh root@45.92.173.50
+// ouFz?JUS6CIE&4GN
